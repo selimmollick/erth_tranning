@@ -1,0 +1,49 @@
+.main_div
+{
+	border: 1px solid black;
+	height: 0px auto;
+	width: 27%;
+	margin: 0px auto;
+	margin-top: 50px;
+
+}
+.sub_div
+{
+	border: 1px solid black;
+	height: 40px;
+	width: 100%;
+
+}
+.submit_div
+{
+	border: 1px solid black;
+	height: 40px;
+	width: 100%;
+	margin-top: 10px;
+}
+.login_dsn
+{
+	margin: 0px;
+	text-align: center;
+}
+.email_div
+{
+	border: 1px solid black;
+	height: 40px;
+	width: 100%; 
+	margin-top: 10px;
+}
+.email_input
+{
+	margin-top: 10px;
+	height: 31px;
+	width: 97%;
+	padding: 5px;
+}
+.submit
+{
+	border: 1px solid black;
+	height: 30px;
+	width: 28%;
+	margin-top: 5px;
+}

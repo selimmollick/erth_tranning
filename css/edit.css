@@ -1,0 +1,72 @@
+.main_div
+{
+	border: 1px solid black;
+	height: 0px auto;
+	width: 30%;
+	margin: 0px auto;
+	margin-top: 50px;
+
+}
+.sub_div
+{
+	border: 1px solid black;
+	height: 40px;
+	width: 100%;
+
+}
+.sub1_div
+{
+	border: 1px solid black;
+	height: 40px;
+	width: 100%;
+	margin-top: 10px;
+}
+.login_dsn
+{
+	margin: 0px;
+	text-align: center;
+}
+.name_input
+{
+	margin-top: 10px;
+	height: 31px;
+	width: 97%;
+	padding: 5px;
+}
+.date_desine
+{
+	border: 1px solid black;
+	width: 20%;
+	height: 26px;
+	margin-top: 5px;
+}
+.submit
+{
+	border: 1px solid black;
+	height: 30px;
+	width: 28%;
+	margin-top: 5px;
+}
+.submit_div
+{
+	border: 1px solid black;
+	height: 40px;
+	width: 100%;
+	margin-top: 10px;
+}
+.top_div
+{
+	border: px solid black;
+	height: 40px;
+	width: 100%;
+	margin-top: 10px;
+}
+.submit_dsn
+{
+	float: right;
+	border: 1px solid black;
+	height: 30px;
+	width: 13%;
+	margin-top: 4px;
+	margin-right: 25px;
+}

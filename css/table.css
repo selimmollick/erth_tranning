@@ -1,0 +1,31 @@
+.table
+{
+	border: 1px solid black;
+	height: 30px;
+	width: 22%;
+	text-align: center;
+}
+.main_div
+{
+	border: 0px solid black;
+	height: 0px auto;
+	width: 58%;
+	margin: 0px auto;
+	margin-top: 50px;
+}
+.top_div
+{
+	border: px solid black;
+	height: 40px;
+	width: 100%;
+	margin-top: 10px;
+}
+.submit_dsn
+{
+	float: right;
+	border: 1px solid black;
+	height: 30px;
+	width: 13%;
+	margin-top: 4px;
+	margin-right: 25px;
+}
